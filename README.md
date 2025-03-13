@@ -1,7 +1,7 @@
 <div style="background-color:#XXXXXX">
 
 <h1 align="center">Hi 👋, I'm Trideep kumar</h1>
-<h3 align="center">Self taught MERN developer ...</h3>
+<h3 align="center">Self taught FullStack developer ...</h3>
 
 
 
